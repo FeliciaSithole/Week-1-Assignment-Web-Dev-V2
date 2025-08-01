@@ -24,7 +24,7 @@ The webpage includes the following key semantic sections:
 
 <footer>: Displays basic footer information.
 
-Accessibility Features
+Accessibility Features:
 Use of semantic landmarks (<header>, <nav>, <main>, <footer>) for screen reader support.
 
 Proper heading levels (<h1> to <h3>) to maintain a logical content hierarchy.
@@ -33,7 +33,7 @@ Descriptive alt attributes for any images (if included).
 
 Descriptive link text and structural clarity for assistive technologies.
 
-SEO Features
+SEO Features:
 Use of a clear and descriptive <title> tag.
 
 Inclusion of a relevant <meta name="description"> for search engine previews.
@@ -42,10 +42,10 @@ Logical heading structure to highlight key topics.
 
 Meaningful content with keywords relevant to the page's topic.
 
-File
+File:
 index.html — The main HTML file for the webpage.
 
-Notes
+Notes:
 No external CSS or JavaScript has been used, as per assignment guidelines.
 
 The focus is strictly on structure, accessibility, and SEO—not visual styling.
